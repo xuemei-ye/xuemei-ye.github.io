@@ -1,5 +1,5 @@
 ---
-title: 强化学习基础三：无模型的策略优化|Sarsa & Q-learning & DQN
+title: 强化学习基础三：基于值函数的策略优化|Sarsa & Q-learning & DQN |Model Free 
 date: 2025-10-14 14:00:00 +0800
 #img_path: ../assets/img/posts/2025-10-04-强化学习基础一：如何用迭代法求解贝尔曼方程？
 categories:
