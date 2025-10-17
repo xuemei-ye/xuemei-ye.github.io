@@ -1,5 +1,5 @@
 ---
-title: 强化学习基础三：基于值函数的策略优化|Sarsa & Q-learning & DQN |Model Free 
+title: 强化学习基础三：基于值函数的策略优化|Sarsa & Q-learning & DQN  
 date: 2025-10-14 14:00:00 +0800
 #img_path: ../assets/img/posts/2025-10-04-强化学习基础一：如何用迭代法求解贝尔曼方程？
 categories:
@@ -157,7 +157,7 @@ q-learning 更新公式：
 
 在Q-learning with function approximation 的基础上使用两项技术：
 
-### Two Network
+### 目标网络延迟更新
 
 目标函数（loss 函数）：
 
